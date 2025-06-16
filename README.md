@@ -1,4 +1,3 @@
-# About-me
 Hello! My name is Guilherme Guimarães.
 
 I have over 5 years of experience in the IT field, having worked with networking, and currently working in infrastructure focused on mainframe systems. I’m constantly looking for new challenges and knowledge, aiming to transition into a software development career and achieve my AWS certification.
